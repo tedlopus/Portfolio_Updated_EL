@@ -1,6 +1,6 @@
-#dportfolio {
-    display: inline-flex;
-    flex-wrap: wrap;
+#portfolio {
+    margin: auto;
+    width: 250px;
 }
 
 
