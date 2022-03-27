@@ -18,28 +18,32 @@
     <header>
       <nav
         class="navbar navbar-expand-lg navbar-dark"
-        style="background-color: #92a8d1"
+        style="background-color: #687864"
       >
-        <h1 style="color: blanchedalmond">My Portfolio</h1>
+        <h1 style="color: #8FC1E3">My Portfolio</h1>
         <div class="collapse navbar-collapse" id="navbarNav">
           <ul class="navbar-nav">
             <li class="nav-item">
-              <a class="nav-link active" aria-current="page" href="#">About Me</a>
+              <a class="nav-link active" aria-current="page" href="#" style="color: #f7f9fb">About Me</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link active" href="#">Work</a>
+              <a class="nav-link active" href="#" style="color: #f7f9fb">Work</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link active" href="#">Contact Me</a>
+              <a class="nav-link active" href="#" style="color: #f7f9fb">Contact Me</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link active">Resume</a>
+              <a class="nav-link active" style="color: #f7f9fb">Resume</a>
             </li>
           </ul>
         </div>
       </nav>
     </header>
-    <br />
+    <div class="intro">
+        <img class="img-fluid" src="https://images.unsplash.com/photo-1542099856725-90b45fe78774?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1579&q=80" alt="coverPhoto">    
+    </div>
+    <br>
+    <br>
     <div class="container-fluid px-5">
       <div class="row">
         <div class="col-lg-3" id="about">
@@ -63,6 +67,8 @@
       </div>
     </div>
     <br>
+    <br>
+    <br>
     <div class="container-fluid px-5">
       <div class="row">
         <div class="col-lg-3" id="Work">
@@ -70,50 +76,66 @@
         </div>
         <div class="col" id="portfolio">
           <div class="row row-cols-2 justify-content-evenly mx-auto gx-5 gy-5">
-            <div class="portfoliowork" id="firstproject">
-              <img src="" alt="assignment1" />
-              <aside>
-                <h4>CodeRefactor</h4>
-                <a href="">Github</a>
+            <div class="card col-7" id="firstProject">
+              <img src="https://cdn.pixabay.com/photo/2018/01/16/01/02/cryptocurrency-3085139__340.jpg" alt="assignment1" />
+                <h4>Coin vs. Coin</h4>
+                <a href="" class="text-decoration-none">Github</a>
               </aside>
             </div>
-            <div class="portfoliowork">
-              <img src="" alt="assignment1" />
+            <div class="card" id="firstAssignment">
+              <img src="http://clikcloud.com/wp-content/uploads/2015/06/data-breach.jpg" alt="assignment1" />
               <aside>
-                <h4>CodeRefactor</h4>
-                <a href="">Github</a>
+                <h4>Password Generator</h4>
+                <a href="" class="text-decoration-none">Github</a>
               </aside>
             </div>
-            <div class="portfoliowork">
-              <img src="" alt="assignment2" />
+            <div class="card" id="secondAssignment">
+              <img src="https://media.istockphoto.com/photos/weather-forecast-picture-id477110708?b=1&k=20&m=477110708&s=170667a&w=0&h=RFXa1v6UAFt5kObR1fGY0yi33ouNmobCYNJlXH6vr6I=" alt="assignment2" />
               <aside>
-                <h4>CodeRefactor</h4>
-                <a href="">Github</a>
-              </aside>
-            </div>
-            <div class="portfoliowork">
-              <img src="" alt="assignment3" />
-              <aside>
-                <h4>CodeRefactor</h4>
-                <a href="">Github</a>
-              </aside>
-            </div>
-            <div class="portfoliowork">
-              <img src="" alt="assignment4" />
-              <aside>
-                <h4>CodeRefactor</h4>
-                <a href="">Github</a>
+                <h4>Weather Dashboard</h4>
+                <a href="" class="text-decoration-none">Github</a>
               </aside>
             </div>
           </div>
         </div>
       </div>
     </div>
-    <div class="container-fluid px-5">
+    <br>
+    <br>
+    <br>
+    <div class="container-fluid">
+      <div class="row">
       <div class="col col-lg-3" id="contact">
         <h3>Contact Me</h3>
       </div>
+        
+      <div class="col col-9 justify-content-evenly" id="portfolio">
+        <div class="row justify-content-evenly">
+        <div class="col">
+        <a href="https://github.com/tedlopus" class="text-decoration-none" > GitHub </a>
+      </div>
+      <div class="col">
+        <a href="https://www.linkedin.com/in/edward-lopus-510266132/" class="text-decoration-none" > LinkedIn </a>
+      </div>
+      <div class="col">
+        <a href="https://github.com/tedlopus" download="Edwards_Resume" class="text-decoration-none" > Resume </a>
+      </div>
+      <div class="col">
+        <a href="tedlopus@gmail.com" class="text-decoration-none" > tedlopus@gmail.com </a>
+      </div>
+      <div class="col">
+        <a href="tel:2394043551" class="text-decoration-none"> 239.404.3551 </p>
+      </div>
+      </div>
+      </div>
+    </div>
+    </div>
+    <br>
+    <br>
+    <br>
+    </div>
       <div class="col" id="content"></div>
     </div>
+
   </body>
 </html>

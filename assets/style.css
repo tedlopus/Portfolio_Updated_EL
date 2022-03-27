@@ -1,10 +1,30 @@
-#portfolio {
-    margin: auto;
-    width: 250px;
+body {
+    background-color: #8FC1E3;
 }
 
+.img-fluid {
+    width: 100%;
+    max-height: 600px;
+}
 
+#firstProject {
+    background-color: #687864;
+}
 
+#firstAssignment {
+    background-color: #687864;
+}
 
+#secondAssignment {
+    background-color: #687864;
+}
+
+h4 {
+    color: #f7f9fb;
+}
+
+h3 {
+    color: #687864;
+}
 
 
