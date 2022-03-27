@@ -2,9 +2,27 @@ body {
     background-color: #8FC1E3;
 }
 
+h4 {
+    color: #f7f9fb;
+}
+
+h3 {
+    text-align: end;
+    color: #687864;
+}
+
+p {
+    width: 75%;
+    margin: auto;
+}
+
 .img-fluid {
     width: 100%;
     max-height: 600px;
+}
+
+.col-lg-2 {
+    border-right: 5px solid #687864;
 }
 
 #firstProject {
@@ -18,13 +36,3 @@ body {
 #secondAssignment {
     background-color: #687864;
 }
-
-h4 {
-    color: #f7f9fb;
-}
-
-h3 {
-    color: #687864;
-}
-
-
