@@ -4,6 +4,9 @@ An updated and more professional version of my portfolio page
 ## Description
 This application is an updated portfolio that further developed my original portfolio. I built developed this using bootstrap which helped make the design of the flex boxes more fluid than without it. I used a different coloring style to help make the application not create eye-strain. I wanted this portfolio to seem more personalized so I added the cover photo of the mountains. I updated the deployed application links to be cards and not just pictures with a heading not attached to the picture. There is a downloadable link to my resume as well as my updated linkedIn and GitHub profiles.
 
+## Deployed Link
+https://tedlopus.github.io/Portfolio_Updated_EL/
+
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
