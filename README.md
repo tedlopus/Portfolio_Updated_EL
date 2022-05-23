@@ -26,4 +26,8 @@ Edward Lopus
 ## Contact
 Please contact me at tedlopus@gmail.com, for any further questions you have regarding this project.
 
-Please visit https://github.com/tedlopus to see more of my projects!
+Please visit https://github.com/tedlopus to see more of my projects!!
+
+[Screen Shot 2022-05-23 at 2 14 58 AM](https://user-images.githubusercontent.com/95667498/169775177-b62b3960-5abc-4d95-af6a-005f7f7fc606.png)
+
+![Screen Shot 2022-05-23 at 2 15 07 AM](https://user-images.githubusercontent.com/95667498/169775239-799fd144-ea1a-43d1-81db-44a7eb3e085c.png)
